@@ -1,4 +1,4 @@
 # Vowels detection
-- Vowel detection using Descomposition Tree (4 levels) on GUIDE/MATLAB.
-- Detect vowels: a, e, i, o, u.
-- Project for the Digital Signal Processing course at UPC, Peru.
+Vowel detection using Descomposition Tree (6 levels) on GUIDE/MATLAB. Detected vowels: a, e, i, o, u.
+![GUIDE Preview](vowel.jpg "GUIDE Preview")
+
