@@ -1,4 +1,4 @@
 # Vowels detection
-Vowel detection using Descomposition Tree (6 levels) on GUIDE/MATLAB. Detected vowels: a, e, i, o, u.
+Project description: An algorithm to detect all the spanish vowels (a, e, i, o and u) from audio signals using a Six-level wavelet decomposition tree. Implemented using GUIDE/MATLAB.
 ![GUIDE Preview](vowel.jpg "GUIDE Preview")
 
